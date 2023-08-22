@@ -1,4 +1,4 @@
-# Pizza-Sales-Data-Visualizations-Dashboard-
-This is a Data Visualization project on Pizza Sales Data Set
-In this project we are trying to solve some imaginary but realtime problem statements
-For this Project we take dataset in excel format and for visualization we are going to use Microsoft Power BI a visualization tool.
+# Pizza-Sales-Dashboard
+This is a Data Visualization project on Pizza Sales Data Set. 
+In this project, I am trying to solve some imaginary but real-time problem statements.
+For this Project, I have taken datasets in Excel format, and for visualization, I am going to use Microsoft Power BI a visualization tool.
